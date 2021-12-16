@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/maxohsawa/Moshify/issues"
   },
-  "homepage": "https://github.com/maxohsawa/Moshify#readme"
+  "homepage": "https://github.com/maxohsawa/Moshify#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
 }
